@@ -4,6 +4,8 @@
 
 Here is a fully responsive simple login page that accept email and paasword for the login button to load to my portfolio page. It uses HTML simple validation to validate both the email and password.
 
+! [alt text](assets/images/login.png)
+
 ## Usage
 
 Copy this link "https://hoduola5.github.io/login-page/" from the README, paste on the browser and fill in your email and password, thereafter click the "Login" button.
