@@ -11,4 +11,4 @@ Note: The password must contain at least one uppercase, lowercase letter, one nu
 
 Here is the screenshot of what the form look like:
 
-! [alt text] (assets/images/login.png)
+![alt text](assets/images/login.png)
