@@ -12,3 +12,5 @@ Copy this link "https://hoduola5.github.io/login-page/" from the README, paste o
 Note: The password must contain at least one uppercase, lowercase letter, one number, and at least 8 or more characters, and email must be an email format for it to work.
 
 Here is the screenshot of what the form look like:
+
+![alt text](assets/images/login.png)
