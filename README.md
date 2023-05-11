@@ -1,9 +1,8 @@
 # login-page
 
-
 ## Description
 
-Here is a login page that accept email and paasword for the login button to load to another page.
+Here is a fully responsive simple login page that accept email and paasword for the login button to load to my portfolio page. It uses HTML simple validation to validate both the email and password.
 
 ## Usage
 
@@ -13,5 +12,3 @@ Note: The password must contain at least one uppercase, lowercase letter, one nu
 Here is the screenshot of what the form look like:
 
 ! [alt text] (assets/images/login.png)
-
-
